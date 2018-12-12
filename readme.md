@@ -24,12 +24,6 @@ This is one of the repos I used for testing out different strategies for using G
 - Test results: https://www.webpagetest.org/result/181212_0B_6134652d0ad5e16e8ac00b14775bd536/ 
 
 **Self-hosting and preloading**
-<<<<<<< HEAD
-Repo: https://github.com/siakaramalegos/google-fonts-self-hosting
-Deployed website: https://elastic-snyder-7a396e.netlify.com/
-Test results: https://www.webpagetest.org/result/181212_NC_aea1f110b647708e2c63dcf0b94b526e/ 
-=======
 - Repo: https://github.com/siakaramalegos/google-fonts-self-hosting
 - Deployed website: https://elastic-snyder-7a396e.netlify.com/
-- Test results: 
->>>>>>> 61a71fe0b300d5cab45c3c618764cdcf06dbca89
+- Test results: https://www.webpagetest.org/result/181212_NC_aea1f110b647708e2c63dcf0b94b526e/ 
