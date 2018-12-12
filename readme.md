@@ -26,4 +26,4 @@ Test results: https://www.webpagetest.org/result/181212_0B_6134652d0ad5e16e8ac00
 **Self-hosting and preloading**
 Repo: https://github.com/siakaramalegos/google-fonts-self-hosting
 Deployed website: https://elastic-snyder-7a396e.netlify.com/
-Test results: 
+Test results: https://www.webpagetest.org/result/181212_NC_aea1f110b647708e2c63dcf0b94b526e/ 
