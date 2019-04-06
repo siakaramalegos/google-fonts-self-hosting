@@ -27,3 +27,15 @@ This is one of the repos I used for testing out different strategies for using G
 - Repo: https://github.com/siakaramalegos/google-fonts-self-hosting
 - Deployed website: https://elastic-snyder-7a396e.netlify.com/
 - Test results: https://www.webpagetest.org/result/181212_NC_aea1f110b647708e2c63dcf0b94b526e/ 
+
+### Calling from HTML vs CSS
+
+**Calling from CSS**
+- Repo: https://github.com/siakaramalegos/google-fonts-css-call
+- Deployed website: https://wonderful-pare-a1c5b1.netlify.com/
+- Test results: http://webpagetest.org/result/190406_EP_2dc139e2f92f617a2ec5f39624d6c8ca/
+
+**Calling from HTML**
+- Repo: Same as above, but call-from-html branch
+- Deployed website: https://happy-kirch-d50652.netlify.com/
+- Test results: http://webpagetest.org/result/190406_R6_728f420f9a8b16fd4cd3ad925bd71018/
